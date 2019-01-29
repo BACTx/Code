@@ -2,8 +2,8 @@
 Home for example Python, R and SAS code 
 
 _Python examples_
-- [Time series decomposition (html)](M3TimeSeriesDecomposition.html)
-- [Time series decomposition (ipynb)](M3TimeSeriesDecomposition.ipynb)
+- [Time series decomposition (html)](/code/index.md/M3TimeSeriesDecomposition.html)
+- [Time series decomposition (ipynb)](/code/index.md/M3TimeSeriesDecomposition.ipynb)
 
 _R examples_
 
